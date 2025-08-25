@@ -33,3 +33,13 @@ Museum Ticketing System (MTS) is a multilingual chatbot-based web application fo
 3. Configure database settings inside config.php.
 4. Start XAMPP (Apache & MySQL).
 5. Open in browser: http://localhost/MTS/
+
+
+💡 How to Use
+Start the application.
+Interact with the chatbot:
+book entry ticket
+book show ticket
+cancel ticket
+view booking history
+Proceed to secure payment via Razorpay.
